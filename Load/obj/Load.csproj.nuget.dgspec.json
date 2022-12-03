@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\dataprocess\\Load\\Load\\Load.csproj": {}
+    "D:\\GitHub\\dataprocess\\Load\\Load.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\dataprocess\\Load\\Load\\Load.csproj": {
+    "D:\\GitHub\\dataprocess\\Load\\Load.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\dataprocess\\Load\\Load\\Load.csproj",
+        "projectUniqueName": "D:\\GitHub\\dataprocess\\Load\\Load.csproj",
         "projectName": "Load",
-        "projectPath": "D:\\GitHub\\dataprocess\\Load\\Load\\Load.csproj",
+        "projectPath": "D:\\GitHub\\dataprocess\\Load\\Load.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\dataprocess\\Load\\Load\\obj\\",
+        "outputPath": "D:\\GitHub\\dataprocess\\Load\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
